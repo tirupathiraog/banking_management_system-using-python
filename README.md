@@ -1,4 +1,4 @@
-<img width="930" height="568" alt="image" src="https://github.com/user-attachments/assets/0f7eb22c-0d85-4de5-8980-e158779bcd0a" /><div align="center">
+
 
 # 🏦 Bank Management System  
 ### A Simple & Reliable Python CLI Banking Application
@@ -11,7 +11,7 @@
 </div>
 
 ---
-
+![Library Management System](banking.png)
 ## 🎯 What Is This Project?
 
 The **Bank Management System** is a **command-line based Python application** that simulates fundamental banking operations while ensuring **data persistence** through file handling.
