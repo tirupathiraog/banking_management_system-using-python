@@ -63,5 +63,8 @@ This project focuses on **clarity, reliability, and real-world logic**, making i
 
 ---
 
-## 📂 Project Structure
+## 👨‍💻 Author
+
+**Tirupathi Rao G**
+SQL Learner | Data Enthusiast | MCA Student
 
