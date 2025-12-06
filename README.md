@@ -1,4 +1,4 @@
-<div align="center">
+<img width="930" height="568" alt="image" src="https://github.com/user-attachments/assets/0f7eb22c-0d85-4de5-8980-e158779bcd0a" /><div align="center">
 
 # 🏦 Bank Management System  
 ### A Simple & Reliable Python CLI Banking Application
